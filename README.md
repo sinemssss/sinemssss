@@ -5,10 +5,9 @@ Bridging the gap between the wet lab and computational workflows. I develop auto
 
 ---
 
-## 🔬 What I'm working on
+| Project | What it does |
 
-- 🎓 **Bachelor's Thesis:** AI-assisted drug–target interaction prediction and **molecular docking** analysis of kinase inhibitor derivatives.
-- 💊 Deepening my expertise in generative de novo drug design (**REINVENT 4**) and structure-based docking (**AutoDock Vina**).
+- 💊 AI-Assisted Drug-Target Interaction (JAK Kinase)** | **[Undergraduate Project Proposal]** Designed a comprehensive, reproducible *in silico* workflow to screen over 1,000 novel kinase inhibitor derivatives using **REINVENT 4** and **Boltz-2** binding affinity predictions. The framework ranks potential candidates based on two distinct disease profiles (JAK1-selective for immunology vs. JAK1/JAK2 dual-selective for hematological cancers), cross-validating the deep learning scores with robust **AutoDock Vina** scoring functions and structural water-mediated sensitivity analysis.
 - 🧬 Building production-ready Python tools inspired by bottleneck problems observed in clinical genetic diagnostic environments.
 - 💻 Open for **freelance bioinformatics consulting, remote micro-tasks, and data analysis pipelines** globally.
 
