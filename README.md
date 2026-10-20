@@ -5,7 +5,7 @@ Bridging the gap between the wet lab and computational workflows. I develop auto
 
 ---
 
-| Project | What it does |
+| Project |
 
 - 💊 AI-Assisted Drug-Target Interaction (JAK Kinase)** | **[Undergraduate Project Proposal]** Designed a comprehensive, reproducible *in silico* workflow to screen over 1,000 novel kinase inhibitor derivatives using **REINVENT 4** and **Boltz-2** binding affinity predictions. The framework ranks potential candidates based on two distinct disease profiles (JAK1-selective for immunology vs. JAK1/JAK2 dual-selective for hematological cancers), cross-validating the deep learning scores with robust **AutoDock Vina** scoring functions and structural water-mediated sensitivity analysis.
 - 🧬 Building production-ready Python tools inspired by bottleneck problems observed in clinical genetic diagnostic environments.
@@ -20,7 +20,7 @@ Bridging the gap between the wet lab and computational workflows. I develop auto
 | **[Sanger Chromatogram Analyzer](https://github.com)** | Reads Sanger sequencing chromatograms (.ab1), automatically finds positions with multiple peaks, and flags only the noteworthy ones—eliminating hours of manual analysis. Built in Python from scratch. |
 | **[PCR Primer Designer](https://github.com)** | Automatically designs forward/reverse primer pairs while checking Tm (Wallace Rule), GC content, hairpins, and primer-dimers. |
 | **[Rubus Caesius Drug Discovery](https://github.com)** | In silico analysis and molecular docking studies of *Rubus caesius* secondary metabolites against therapeutic targets. |
-| **AI-assisted Drug–Target Interaction** | *Part of my ongoing thesis:* Predicting drug–target interactions, then validating kinase inhibitor derivatives with molecular docking via REINVENT 4. |
+
 
 ---
 
